@@ -1,6 +1,6 @@
 {
-  "name": "@dojot/iotagent-nodejs",
-  "version": "2.1.0-alpha.1",
+  "name": "@andrewjsc/iotagent-nodejs",
+  "version": "2.1.0-alpha.3",
   "description": "Base iotagent functionality for dojot",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -9,20 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dojot/iotagent-nodejs.git"
+    "url": "git+https://github.com/andrewjschuang/iotagent-nodejs.git"
   },
   "keywords": [
     "dojot",
     "iot"
   ],
-  "author": "Matheus Magalhaes",
+  "author": "Andrew Chuang",
   "bugs": {
-    "url": "https://github.com/dojot/iotagent-nodejs/issues"
+    "url": "https://github.com/andrewjschuang/iotagent-nodejs/issues"
   },
-  "homepage": "https://github.com/dojot/iotagent-nodejs/#readme",
-  "license": "GPL-3.0",
+  "homepage": "https://github.com/andrewjschuang/iotagent-nodejs/#readme",
+  "license": "GPL-3andrewjschuang0",
   "dependencies": {
-    "@dojot/dojot-module": "0.0.1-alpha.5",
+    "@andrewjsc/dojot-module": "0.0.1-alpha.7",
     "@dojot/dojot-module-logger": "0.0.1-alpha.1",
     "axios": "^0.17.1",
     "js-base64": "^2.3.2",
